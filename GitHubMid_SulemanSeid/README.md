@@ -27,9 +27,9 @@
 ### Link at least 3 repositories: Personal Project (See Part 2), best repository, and the 3rd part of this assignment.
 
 ```` csharp
-https://github.com/suleseid/GA_LinkedListSingly_SuleSeid
+https://github.com/suleseid/GA_QueueDoublyLinkedList_SSule
 https://github.com/suleseid/DataStructures_SulemanSeid
-https://github.com/suleseid/MidTermProject_SuleSeid
+https://github.com/suleseid/PersonalProject_SulemanSeid
 ````
  ## I.Learning Goals/Career Aspirations: 
        a. My primary goal is to provide accurate and helpful responses to user queries.
